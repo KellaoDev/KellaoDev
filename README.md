@@ -15,6 +15,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div><br/>
 
-Apaixonado por tecnologia, e tenho o sonho de mudar minha vida com através da programação.
+Apaixonado por tecnologia, e tenho o sonho de mudar minha vida através da programação.
 
 
