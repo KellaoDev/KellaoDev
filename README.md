@@ -9,6 +9,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-Apaixonado por tecnologia, e tenho o sonho de mudar minha vida através da programação.
 
 
